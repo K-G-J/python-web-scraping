@@ -1,4 +1,4 @@
-# PYTHON WEB SCRAPING COURSE
+# PYTHON WEB SCRAPING EXAMPLES
 
 ## Description
 
@@ -9,3 +9,4 @@ A practice project using BeautifulSoup and Scrapy to provide examples of website
 - urllib
 - BeautifulSoup4
 - Scrapy
+- Selenium
